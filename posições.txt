@@ -1,0 +1,53 @@
+Baseados nas imagens, podemos considerar que o período do movimento é de 1393ms.
+
+Baseados no princípio de que as coordenadas dos pixels crescem da esquerda
+pra direita e de cima pra baixo, iremos definir um vetor centro do movimento 
+rotacional C = <x0,y0>, e um vetor posição do movimento P = <x,y>. O centro do movimento é o local 
+entre os dedos de quem segurou o pêndulo e o posição é medida com base no ponto 
+no cordão exatamente acima da massa oscilante. 
+Considere o arco theta, medido em radianos.
+
+
+00ms:
+	C = <485,308>
+	P = <524,1271>	
+	theta = 1.530320
+106ms:
+	C = <490,312>
+	P = <317,1254>	
+	theta = 1.752424
+138ms:
+	C = <493,314>
+	P = <273,1249>
+	theta = 1.801887
+305ms:
+	C = <545,315>
+	P = <169,1194>
+	theta = 1.975001
+644ms:
+	C = <611,335>
+	P = <582,1302>
+	theta = 1.600777
+745ms:
+	C = <606,351>
+	P = <758,1299>
+	theta = 1.411812
+815ms:
+	C = <596,352>
+	P = <867,1274>
+	theta = 1.284921
+1020ms:
+	C = <567,343>
+	P = <1004,1178>
+	theta = 1.088641
+1257ms:
+	C = <553,342>
+	P = <782,1249>
+	theta = 1.323484
+1393ms:
+	C = <546,344>
+	P = <515,1276>
+	theta = 1.604046
+
+
+
