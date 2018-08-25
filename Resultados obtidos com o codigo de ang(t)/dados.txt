@@ -1,0 +1,15 @@
+Os coeficientes obtidos com a substituição dos valores na função disponibilizada foram:
+
+r1 = r(1) = 1.5331751; 
+r2 = r(2) = 0.032183;
+r3 = r(3) = 0.4337282;
+
+Quanto a frequência w0 obtida, temos o seguinte valor:
+
+w0 = 0.0045105;
+
+
+
+A função ang(t) fica escrita então da seguinte forma:
+
+ang(t) = 1.5331751 + 0.032183*cos(0.0045105*t) + 0.4337282*sin(0.0045105*t);
