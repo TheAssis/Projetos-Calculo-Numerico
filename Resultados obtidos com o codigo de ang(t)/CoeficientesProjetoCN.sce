@@ -16,9 +16,9 @@ function [w0​, r​] = coeficientes(t​, ang​, p​) //vetores de tempo e a
 
 endfunction
 
- t=[00 106 138 305 644 745 815 1020 1257 1393];//tempo de cada imagem
+ t=[00 106 305 644 745 815 1020 1393];//tempo de cada imagem
 
- ang=[1.530320 1.752424 1.801887 1.975001 1.600777 1.411812 1.284921 1.088641 1.323484 1.604046]; //ângulos de cada imagem, respectivamente;
+ ang=[1.530320 1.752424 1.975001 1.600777 1.411812 1.284921 1.088641 1.604046]; //ângulos de cada imagem, respectivamente;
 
  p = 1393; //período ou tempo para uma volta completa
 
